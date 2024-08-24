@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=o=>3.14*o;console.log("myFn + ",o(4)),console.log("sum = "+(11+12)),console.log("multiply = "+o(5)),alert("hi")})();

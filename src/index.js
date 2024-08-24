@@ -3,10 +3,8 @@ import { sum, multiply } from './math.js';
 
 console.log('myFn + ', myFn(4));
 
-console.log('sum = ' + sum(1, 2));
+console.log('sum = ' + sum(11, 12));
 
 console.log('multiply = ' + multiply(5));
-
-document.write('Hello, index!!!!');
 
 alert("hi");
