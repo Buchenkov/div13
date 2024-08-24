@@ -14,8 +14,8 @@
   },
   "husky": {    
    "hooks": {      
-     "pre-commit": "YOUR_COMMAND_HERE", 
-     "pre-push": "YOUR_COMMAND_HERE"   
+     "pre-commit": "yarn lint",
+      "pre-push": "yarn test"
    }  
 },
   "name": "div13",
